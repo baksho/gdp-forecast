@@ -5,6 +5,12 @@ This model is aimed to forecast the GDP of a country using machine learning algo
 In this simple GDP forecasting model using a machine learning approach with Python, we aim to predict the GDP of a country in future from historical GDP data and various other basic economic indicators.
 The model is pretty simple and use Random Forest Regressor, a robust esemble learning method.
 
+#### Economic Indicators
+Following economic indicators were used to forecast the GDP in future along with historical GDP data:
+- Interest rate
+- Inflation rate
+- Unemployment rate
+
 #### Future Work
 As of now, the model is pretty simple and uses synthetica data (generated in Python) for testing the functionality of code. Following works are planned to carry out in future:
 1. Use real time sources for historical GDP data and basic economic indicators, e.g.:
