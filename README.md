@@ -1,9 +1,9 @@
-## gdp_forecast
-This model is aimed to forecast the GDP of a country using machine learning algorithms.
+## Description
+This model uses machine learning algorithms to forecast the GDP of a country based on historical data on multiple paramters like interest rate, inflation rate, unemployment rate etc.
 
 ***This project is not final. Updates are in progress.***
 
-### Aim
+#### Aim
 In this simple GDP forecasting model using a machine learning approach with Python, we aim to predict the GDP of a country in future from historical GDP data and various other basic economic indicators.
 The model is pretty simple and use Random Forest Regressor, a robust esemble learning method.
 
